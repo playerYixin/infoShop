@@ -9,7 +9,7 @@ Medium: https://medium.com/yixins-info-shop
 
 Mirror: https://mirror.xyz/0x151c218Aa35651C7d7B1822ea213C50609648f7F
 
-### Milestone #1: Infancy
+## Milestone #1: Infancy
 
 ### V0.1
 
